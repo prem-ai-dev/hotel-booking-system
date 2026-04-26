@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "guest_id": 1,
+        "hotel_id": 1,
+        "room_type": "Deluxe",
+        "check_in": "2026-04-20",
+        "check_out": "2026-04-22",
+        "nights": 2,
+        "status": "cancelled"
+    },
+    {
+        "id": 2,
+        "guest_id": 1,
+        "hotel_id": 1,
+        "room_type": "Deluxe",
+        "check_in": "2026-04-22",
+        "check_out": "2026-04-24",
+        "nights": 2,
+        "status": "completed"
+    }
+]

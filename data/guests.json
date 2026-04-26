@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "name": "John",
+        "email": "john@mail.com",
+        "wallet_balance": 3000,
+        "booking_history": [
+            1,
+            2
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Alice",
+        "email": "alice@mail.com",
+        "wallet_balance": 500,
+        "booking_history": []
+    }
+]

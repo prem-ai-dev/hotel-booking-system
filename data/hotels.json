@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Taj",
+        "location": "Chennai",
+        "rooms": {
+            "Deluxe": {
+                "price": 1000,
+                "total_rooms": 2,
+                "available": 1
+            },
+            "Suite": {
+                "price": 2000,
+                "total_rooms": 1,
+                "available": 1
+            }
+        },
+        "rating": 0
+    },
+    {
+        "id": 2,
+        "name": "Oberoi",
+        "location": "Delhi",
+        "rooms": {
+            "Deluxe": {
+                "price": 1500,
+                "total_rooms": 1,
+                "available": 1
+            },
+            "Suite": {
+                "price": 2500,
+                "total_rooms": 0,
+                "available": 0
+            }
+        },
+        "rating": 0
+    }
+]
